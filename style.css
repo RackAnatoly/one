@@ -1,0 +1,14 @@
+#container{
+padding: 6px;
+width: 976px;
+
+};
+#main{
+width: 976px;
+position: relative;
+};
+#content{
+width: 600px;
+padding: 30px;
+background-color: brown;
+}
